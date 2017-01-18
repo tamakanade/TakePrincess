@@ -1,0 +1,11 @@
+#バックアップフォルダを無視
+EncampmentAlpha/Saved/Backup
+
+#Autosavesフォルダを無視
+EncampmentAlpha/Saved/Autosaves
+
+#AutoScreenshot.pngを無視
+EncampmentAlpha/Saved/AutoScreenshot.png
+
+#Logsフォルダを無視
+EncampmentAlpha/Saved/Logs

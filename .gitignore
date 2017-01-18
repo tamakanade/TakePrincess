@@ -1,11 +1,11 @@
 #バックアップフォルダを無視
-*/Saved/Backup
+*/Saved/Backup/
 
 #Autosavesフォルダを無視
-*/Saved/Autosaves
+*/Saved/Autosaves/
 
 #AutoScreenshot.pngを無視
-*/Saved/AutoScreenshot.png
+*/Saved/AutoScreenshot.png/
 
 #Logsフォルダを無視
-*/Saved/Logs
+*/Saved/Logs/
